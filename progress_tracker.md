@@ -73,7 +73,8 @@
 04. Common Errors in loops
 
 #### 3. Recursion Optional 
-
+01. What is recursion
+02. Recursion in action in the it context
 
 #### 4. Module Review 
 01. Loops wrap up
