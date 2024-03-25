@@ -9,3 +9,7 @@ print(type(area))
 # area which is a "float" type is being converted to a "string" type 
 print("The area of the triangle is: " + str(area))
 
+number_as_a_string = "8"
+
+number_as_an_int = int(number_as_a_string)
+

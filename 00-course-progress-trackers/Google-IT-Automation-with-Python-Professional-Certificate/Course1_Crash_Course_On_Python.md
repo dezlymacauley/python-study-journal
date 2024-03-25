@@ -91,6 +91,8 @@
 04. Creating new strings
 05. More strings methods
 
+CONTINUE HERE >>>>>>>>>>>>
+
 #### 2. Lists 
 
 #### 3. Dictionaries 
