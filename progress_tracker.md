@@ -42,11 +42,14 @@
 #### 2. Functions 
 01. Defining functions
 02. Returning values
-
+03. The principles of code re-use
+04. Code style
 
 #### 3. Conditionals
-
-
+01. Comparing things
+02. Branching with if statements
+03. Else statements
+04. Elif statements
 
 #### 4. Module Review
 01. Basic syntax wrap
