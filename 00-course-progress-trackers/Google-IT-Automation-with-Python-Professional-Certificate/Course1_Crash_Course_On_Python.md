@@ -72,7 +72,7 @@
 03. Nested for loops
 04. Common Errors in loops
 
-#### 3. Recursion Optional 
+#### 3. Recursion (Optional)
 01. What is recursion
 02. Recursion in action in the it context
 
@@ -84,6 +84,25 @@
 
 ### Section 4 - Strings, Lists and Dictionaries
 
+#### 1. Strings
+01. Basic Structures Introductions
+02. What is a string
+03. The parts of a string
+04. Creating new strings
+05. More strings methods
+
+#### 2. Lists 
+
+#### 3. Dictionaries 
+
+
+#### 4. Module Review 
+01. Basic Structures Wrap Up
+02. In Margas words - My most challenging script
+
+---
+
+### Section 5 - Object Orientated Programming 
 
 ---
 
