@@ -33,6 +33,24 @@
 
 ### Section 2 - Basic Python Syntax
 
+#### 1. Expressions and Variables 
+01. Basic Python Syntax Introduction
+02. Data types
+03. Variables
+04. Expressions numbers and type conversions
+
+#### 2. Functions 
+01. Defining functions
+02. Returning values
+
+
+#### 3. Conditionals
+
+
+
+#### 4. Module Review
+01. Basic syntax wrap
+02. In Margas words why I like Python
 
 ---
 
