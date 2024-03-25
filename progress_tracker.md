@@ -59,6 +59,25 @@
 
 ### Section 3 - Loops 
 
+#### 1. While Loops 
+01. Introduction to loops
+02. What is a while loop
+03. More While loop examples
+04. Why initializing variables matters
+05. Infinite loops and how to break them
+
+#### 2. For Loops 
+01. What is a For loop
+02. More For loop examples
+03. Nested for loops
+04. Common Errors in loops
+
+#### 3. Recursion Optional 
+
+
+#### 4. Module Review 
+01. Loops wrap up
+02. In Margas words - How I got into programming
 
 ---
 
