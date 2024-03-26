@@ -98,7 +98,7 @@
 03. Lists and tuples
 04. Iterating over lists and tuples CONTINUE>>>>>>>>>>>>
 
-NOT Finished
+06. List comprehensions
 
 #### 3. Dictionaries 
 01. What is a dictionary
@@ -108,8 +108,6 @@ NOT Finished
 #### 4. Module Review 
 01. Basic Structures Wrap Up
 02. In Margas words - My most challenging script
-
-CONTINUE>>>>>>>>>>>>
 
 ---
 
@@ -123,10 +121,14 @@ CONTINUE>>>>>>>>>>>>
 
 #### 2. Classes and methods
 01. Instance methods
-
-CONTINUE>>>>>>>>>>>>
+02. Constructors and other special methods
+03. Documenting functions classes and methods
+04. About Jupyter Notebooks
 
 #### 3. Code Re-use 
+01. Inheritance
+02. Composition 
+03. Python modules
 
 #### 4. Module Review 
 01. OOP Wrap up 
