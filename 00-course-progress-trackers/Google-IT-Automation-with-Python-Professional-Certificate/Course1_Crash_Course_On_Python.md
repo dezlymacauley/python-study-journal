@@ -102,17 +102,49 @@ NOT Finished
 
 #### 3. Dictionaries 
 01. What is a dictionary
+02. Iterating over the contents of a dictionary
+03. Dictionaries vs lists
 
 #### 4. Module Review 
 01. Basic Structures Wrap Up
 02. In Margas words - My most challenging script
 
+CONTINUE>>>>>>>>>>>>
+
 ---
 
 ### Section 5 - Object Orientated Programming 
 
+#### 1. Object Orientated Programming
+01. OOP introduction optional
+02. What is an object orientated programming 
+03. Classes and objects in Python
+04. Defining new classes
+
+#### 2. Classes and methods
+01. Instance methods
+
+CONTINUE>>>>>>>>>>>>
+
+#### 3. Code Re-use 
+
+#### 4. Module Review 
+01. OOP Wrap up 
+02. In Margas words - my favourite course
+
 ---
 
 ### Final Project
+
+#### 1. Writin a script from the ground up 
+
+
+#### 2. Final Project 
+01. In Margas words developing and inclusive curriculum
+02. Final project overview
+
+#### 3. Course Wrap up
+01. Congratulations
+02. Sneak peek o the next course
 
 ---

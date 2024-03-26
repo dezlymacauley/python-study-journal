@@ -34,3 +34,11 @@ file_counts["rs"] = 51
 print(file_counts)
 
 #------------------------------------------------------------------------------
+
+# NOTE: How to delete a key from a dictionary
+# Use the "del" keyword
+
+del file_counts["rs"]
+print(file_counts)
+
+#------------------------------------------------------------------------------
