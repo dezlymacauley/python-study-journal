@@ -96,10 +96,12 @@
 01. What is a list
 02. Modifying the contents of a list
 03. Lists and tuples
+04. Iterating over lists and tuples CONTINUE>>>>>>>>>>>>
 
+NOT Finished
 
 #### 3. Dictionaries 
-
+01. What is a dictionary
 
 #### 4. Module Review 
 01. Basic Structures Wrap Up

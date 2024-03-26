@@ -54,3 +54,5 @@ print("There are " + str(length) +  " numbers in the list")
 print("The total is: " + str(sum))
 print("The average is: " + str(sum/length))
 
+
+
