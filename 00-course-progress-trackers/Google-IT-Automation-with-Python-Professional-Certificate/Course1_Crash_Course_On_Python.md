@@ -93,6 +93,9 @@
 06. Formatting Strings
 
 #### 2. Lists 
+01. What is a list
+02. Modifying the contents of a list
+03. Lists and tuples
 
 
 #### 3. Dictionaries 
