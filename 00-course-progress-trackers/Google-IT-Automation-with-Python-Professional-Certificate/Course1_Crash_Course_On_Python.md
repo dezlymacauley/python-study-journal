@@ -137,7 +137,13 @@ CONTINUE>>>>>>>>>>>>
 ### Final Project
 
 #### 1. Writin a script from the ground up 
-
+01. Final Project introduction
+02. Problem statement
+03. Research
+04. Planning
+05. Wrting the script
+06. Putting it all together
+07. Using graded Jupyter Notebooks
 
 #### 2. Final Project 
 01. In Margas words developing and inclusive curriculum
