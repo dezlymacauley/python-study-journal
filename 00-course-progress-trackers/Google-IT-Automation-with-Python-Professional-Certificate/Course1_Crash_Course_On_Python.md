@@ -90,10 +90,10 @@
 03. The parts of a string
 04. Creating new strings
 05. More strings methods
-
-CONTINUE HERE >>>>>>>>>>>>
+06. Formatting Strings
 
 #### 2. Lists 
+
 
 #### 3. Dictionaries 
 
